@@ -58,3 +58,7 @@ header {
     margin-bottom: 90px;
     color: #fff;
 }
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
