@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+.bg-color-name-title {
+    background-color: #676767;
+}
+
 header {
     margin: 0;
 }
