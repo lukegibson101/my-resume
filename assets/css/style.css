@@ -32,8 +32,9 @@ header {
 }
 
 .logo {
-    background: url("../images/rosie.jpg");
-    background-position: center;
+    background: url("../images/luke-gibson.jpeg");
+    background-color: #676767;
+    background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
