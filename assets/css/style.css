@@ -278,3 +278,7 @@ footer {
     color: #fafafa;
     background-color: rgba(25,25,25,.2);
 }
+
+.progress-section {
+    margin: 40px 20px;
+}
