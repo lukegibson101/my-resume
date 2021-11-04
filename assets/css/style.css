@@ -9,6 +9,10 @@
     background-color: #fff;
 }
 
+.bg-color-work-history {
+    background-color: #9b59b6;
+}
+
 .bg-color-personal-info {
     background-color: #f4f4f4;
 }
@@ -272,11 +276,11 @@ footer {
 
 .progress-type {
     position: absolute;
-    left:0px;
+    left: 0px;
     font-weight: 400;
     padding: 3px 30px 2px 10px;
     color: #fafafa;
-    background-color: rgba(25,25,25,.2);
+    background-color: rgba(25, 25, 25, .2);
 }
 
 .progress-section {
